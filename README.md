@@ -48,6 +48,8 @@ lodash: https://lodash.com/
 
 angular style guide: https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md
 
+nasa api: https://api.nasa.gov/api.html#earth
+
 ## OK Coders Syllabus
 
 <table>
@@ -150,6 +152,14 @@ angular style guide: https://github.com/johnpapa/angular-styleguide/blob/master/
 		</tr>
 		<tr>
 			<th colspan="3" align="left">Week 8</th>
+		</tr>
+		<tr>
+			<td>8.1</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>8.2</td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
